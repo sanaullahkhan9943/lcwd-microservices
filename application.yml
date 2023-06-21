@@ -1,9 +1,6 @@
 spring:
   application:
     name: config-default
-  jackson:
-    serialization:
-      INDENT_OUTPUT: true
 
 eureka:
   instance:
